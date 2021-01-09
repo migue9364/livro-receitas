@@ -3,3 +3,4 @@
 Bem vindo ao livro de receitas:happy:
 
 - Strogonoff de frango
+- Pavé
